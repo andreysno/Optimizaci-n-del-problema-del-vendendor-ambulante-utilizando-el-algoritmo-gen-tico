@@ -1,2 +1,2 @@
-# Optimizaci-n-del-problema-del-vendendor-ambulante-utilizando-el-algoritmo-gen-tico
+# Optimización-del-problema-del-vendendor-ambulante-utilizando-el-algorítmo-genético
 Tarea #07 Física Computacional I
